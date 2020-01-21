@@ -7,7 +7,7 @@ Installation
 1. Ensure that your PA directory is `~/pa2`
 2. `cd ~/pa2`
 3. `git clone https://github.com/brandonio21/ucsd-cs120-wi16-pa2-tester`
-4. `sh ucsd-cs120-wi16-pa-tester/install.sh`
+4. `sh ucsd-cs120-wi16-pa2-tester/install.sh`
 5. `make test`
 
 Running
