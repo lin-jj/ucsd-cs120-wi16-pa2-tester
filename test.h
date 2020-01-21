@@ -1,4 +1,4 @@
-#include "mykernel2.h"
+#include "mycode2.h"
 #include "aux.h"
 #include "sys.h"
 #include <time.h>
